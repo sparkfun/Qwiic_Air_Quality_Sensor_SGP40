@@ -1,0 +1,1 @@
+# Qwiic_Air_Quality_Sensor_SGP40
