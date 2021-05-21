@@ -23165,7 +23165,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="PWR" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="LOGO5" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
-<part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
+<part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK" value="DNP"/>
 <part name="I2C" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39289/1"/>
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U1" library="SparkFun-Sensors" deviceset="SGP40" device="" value="SGP40"/>
@@ -23267,7 +23267,7 @@ Operating current @ 3.3V: 3.0 mA</text>
 <attribute name="VALUE" x="53.34" y="134.62" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="GND1" gate="1" x="109.22" y="86.36" smashed="yes">
-<attribute name="VALUE" x="109.22" y="86.106" size="1.778" layer="96" font="vector" align="top-center"/>
+<attribute name="VALUE" x="106.68" y="83.566" size="1.778" layer="96" font="vector"/>
 </instance>
 <instance part="R1" gate="G$1" x="177.8" y="154.94" smashed="yes" rot="R90">
 <attribute name="NAME" x="176.276" y="154.94" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
